@@ -14,6 +14,7 @@ id: 3
 <slides source="chapter3_01_Flor_test">
 </slides>
 
+</exercise>
 <exercise id="2" title="Some code to try">
 
 This is a code exercise. 
