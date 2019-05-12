@@ -9,7 +9,7 @@ speaker notes on the side. Slides can be separated with a divider: ---.
 
 ---
 
-# This is a slide
+# A great slide!
 
 ```r
 # Print something
