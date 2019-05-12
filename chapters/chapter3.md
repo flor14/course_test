@@ -18,7 +18,7 @@ id: 3
 
 This is a code exercise. 
 
-<codeblock id="03_1">
+<codeblock id="03_01">
 
 This is a hint.
 
