@@ -13,3 +13,15 @@ id: 3
 
 <slides source="chapter3_01_Flor_test">
 </slides>
+
+<exercise id="2" title="Some code to try">
+
+This is a code exercise. 
+
+<codeblock id="03_1">
+
+This is a hint.
+
+</codeblock>
+
+</exercise>
