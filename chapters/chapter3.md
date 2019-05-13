@@ -27,7 +27,7 @@ How do you say hello to a programmer?
 
 </exercise>
 
-<exercise id="2" title="Choices">
+<exercise id="3" title="Choices">
 
 Do you like my code?
 
