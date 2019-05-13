@@ -21,8 +21,34 @@ This is a code exercise.
 
 <codeblock id="03_01">
 
-This is a hint.
+How do you say hello to a programmer?
 
 </codeblock>
+
+</exercise>
+
+<exercise id="2" title="Choices">
+
+Do you like my code?
+
+<choice>
+<opt text="No">
+
+This is not the correct answer.
+
+</opt>
+
+<opt text="Yes" correct="true">
+
+Thank you!
+
+</opt>
+
+<opt text="Not sure">
+
+This is not correct either.
+
+</opt>
+</choice>
 
 </exercise>
