@@ -17,7 +17,7 @@ print("Florencia", quote = FALSE)
 ```
 
 ```out
-Hello world
+Florencia
 ```
 
 - Slides can have code, bullet points, tables and pretty much all other Markdown
