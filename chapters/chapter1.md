@@ -87,7 +87,6 @@ Correct! Now let's move on to interpreting our models visually.
 
 </opt>
 </choice>
-
 </exercise>
 
 <exercise id="3" title="First steps">
