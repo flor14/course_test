@@ -69,7 +69,7 @@ Correct! Now let's move on to interpreting our models visually.
 
 </opt>
 
-<opt text="price" >
+<opt text="price">
 
 `s(price)` has a p-value below 0.05, indicating that it is significant, and also an `edf` of 1, indicating it is linear.
 
