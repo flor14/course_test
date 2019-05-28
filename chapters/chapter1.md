@@ -53,7 +53,6 @@ Correct! `price` is significant (p <0.05) and linear (`edf` near 1).
 `s(width)` has a `p-value` over 0.05 and no stars, indicating it is not significant.
 
 </opt>
-
 </choice>
 
 Multiple Choice: In the same model (`mod_city4`), which smooth term is _non-significant_ and _non-linear_?
@@ -88,9 +87,7 @@ Correct! Now let's move on to interpreting our models visually.
 `s(width)` has an `edf` near 1, indicating it is linear.
 
 </opt>
-
 </choice>
-
 </exercise>
 
 <exercise id="3" title="First steps">
