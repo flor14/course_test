@@ -23,6 +23,7 @@ Let's ask some questions about the slides. Whats the correct answer?
 Multiple Choice: Which smooth term in this model is _significant_ and _linear_?
 
 <choice>
+  
 <opt text="weight">
 
 `s(weight)` has `edf` over five, indicating it is nonlinear."
@@ -52,11 +53,13 @@ Correct! `price` is significant (p <0.05) and linear (`edf` near 1).
 `s(width)` has a `p-value` over 0.05 and no stars, indicating it is not significant.
 
 </opt>
+
 </choice>
 
 Multiple Choice: In the same model (`mod_city4`), which smooth term is _non-significant_ and _non-linear_?
 
 <choice>
+  
 <opt text="weight">
 
 `s(weight)` has a p-value below 0.05, indicating that it is significant.
@@ -86,6 +89,7 @@ Correct! Now let's move on to interpreting our models visually.
 `s(width)` has an `edf` near 1, indicating it is linear.
 
 </opt>
+
 </choice>
 
 </exercise>
