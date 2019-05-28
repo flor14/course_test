@@ -20,26 +20,6 @@ id: 1
 
 Let's ask some questions about the slides. Whats the correct answer?
 
-<choice>
-<opt text="Answer one">
-
-This is not the correct answer.
-
-</opt>
-
-<opt text="Answer two" correct="true">
-
-Good job!
-
-</opt>
-
-<opt text="Answer three">
-
-This is not correct either.
-
-</opt>
-</choice>
-
 Multiple Choice: Which smooth term in this model is _significant_ and _linear_?
 
 <choice>
@@ -49,7 +29,7 @@ Multiple Choice: Which smooth term in this model is _significant_ and _linear_?
 
 </opt>
 
-<opt text="length" >
+<opt text="length">
 
 `s(length)` has a `p-value` over 0.05 and no stars, indicating it is not significant.
 
@@ -89,7 +69,7 @@ Correct! Now let's move on to interpreting our models visually.
 
 </opt>
 
-<opt text="price" >
+<opt text="price">
 
 `s(price)` has a p-value below 0.05, indicating that it is significant, and also an `edf` of 1, indicating it is linear.
 
