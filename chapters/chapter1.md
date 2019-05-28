@@ -40,6 +40,74 @@ This is not correct either.
 </opt>
 </choice>
 
+Multiple Choice: Which smooth term in this model is _significant_ and _linear_?
+
+<choice>
+<opt text="weight">
+
+`s(weight)` has `edf` over five, indicating it is nonlinear."
+
+</opt>
+
+<opt text="length" >
+
+`s(length)` has a `p-value` over 0.05 and no stars, indicating it is not significant.
+
+</opt>
+
+<opt text="price" correct="true">
+
+Correct! `price` is significant (p <0.05) and linear (`edf` near 1).
+
+</opt>
+
+<opt text="rpm">
+
+`s(rpm)` has `edf` over five, indicating it is nonlinear.
+
+</opt>
+
+<opt text="width">
+
+`s(width)` has a `p-value` over 0.05 and no stars, indicating it is not significant.
+
+</opt>
+</choice>
+
+Multiple Choice: In the same model (`mod_city4`), which smooth term is _non-significant_ and _non-linear_?
+
+<choice>
+<opt text="weight">
+
+`s(weight)` has a p-value below 0.05, indicating that it is significant.
+
+</opt>
+
+<opt text="length" correct="true">
+
+Correct! Now let's move on to interpreting our models visually.
+
+</opt>
+
+<opt text="price" >
+
+`s(price)` has a p-value below 0.05, indicating that it is significant, and also an `edf` of 1, indicating it is linear.
+
+</opt>
+
+<opt text="rpm">
+
+`s(rpm)` has a p-value below 0.05, indicating that it is significant.
+
+</opt>
+
+<opt text="width">
+
+`s(width)` has an `edf` near 1, indicating it is linear.
+
+</opt>
+</choice>
+
 </exercise>
 
 <exercise id="3" title="First steps">
